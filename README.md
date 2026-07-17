@@ -177,7 +177,10 @@ Retail-Sales-Performance-Dashboard/
 │   └── Retail Sales Executive Dashboard.pbix
 │
 ├── Dataset/
-│   └── Sales_Data.xlsx
+│   ├── Sales.csv
+│   ├── Customer.xlsx
+│   ├── Product.csv
+│   └── Store.xlsx
 │
 ├── Images/
 │   ├── Dashboard Overview.png
