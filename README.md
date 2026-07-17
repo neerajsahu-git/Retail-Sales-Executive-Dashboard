@@ -163,12 +163,9 @@ This dashboard helps answer critical business questions:
 
 ## Executive Dashboard
 
-> Replace with your dashboard screenshot.
+The dashboard provides executives and business managers with a centralized view of sales performance, profitability, customer insights, regional trends, and key business KPIs.
 
-```text
-Images/Dashboard_overview.jpg
-```
-
+![Retail Sales Executive Dashboard](Images/Dashboard_preview.jpg)
 ---
 
 # 📂 Repository Structure
@@ -255,4 +252,23 @@ Retail-Sales-Performance-Dashboard/
 
 ---
 
-## ⭐ If you found this project useful, please consider giving it a Star!
+# 🤝 Feedback & Contributions
+
+Constructive feedback and contributions are always welcome.
+
+If you have ideas to enhance the dashboard or documentation, you can:
+
+- Share suggestions for new business insights.
+- Recommend additional KPIs or visualizations.
+- Report issues or documentation improvements.
+- Open an Issue or submit a Pull Request.
+
+Your feedback helps make this project more valuable for the Business Intelligence community.
+
+
+---
+### Connect With Me
+
+* **GitHub:** https://github.com/neerajsahu-git
+* **LinkedIn:** https://www.linkedin.com/in/neerajkumarsahu-data
+
