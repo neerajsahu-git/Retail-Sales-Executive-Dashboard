@@ -254,6 +254,12 @@ Retail-Sales-Performance-Dashboard/
 ---
 
 ---
+## 📥 Download Power BI Dashboard
+
+[📊 Retails Sales Executive Dashboard](./Dashboard/Retails_Sales_Executive_Dashboard.pbix)
+
+
+---
 
 # 🤝 Feedback & Contributions
 
