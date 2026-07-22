@@ -3,7 +3,6 @@
 > A Business Intelligence solution that transforms retail sales data into actionable insights, enabling executives and business managers to make faster, data-driven decisions through interactive analytics.
 
 
-
 ---
 
 # 📌 Executive Summary
